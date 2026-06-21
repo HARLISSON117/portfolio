@@ -24,7 +24,7 @@ constante crescimento, vamos conversar!`,
   phone: "+55 (99) 99148-9354",
 
   // Links externos — preencha o GitHub assim que criar/organizar seu perfil.
-  github: "",
+  github: "https://github.com/HARLISSON117",
   linkedin: "https://www.linkedin.com/in/antonio-harlisson-sousa-paiva-54722b367/",
   whatsapp: "https://wa.me/5599991489354",
 
