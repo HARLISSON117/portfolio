@@ -33,6 +33,6 @@ constante crescimento, vamos conversar!`,
   resumeUrl: "/curriculo.pdf",
 
   // SEO / Open Graph — substitua siteUrl após o deploy na Vercel.
-  siteUrl: "https://harlisson-paiva.vercel.app",
+  siteUrl: "https://portfolio-ebon-theta-50.vercel.app/",
   ogImage: "/og-image.svg",
 } as const;
